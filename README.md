@@ -20,4 +20,4 @@ Para isso vamos criar:
 - 1 arquivo styles.css para estilização dos
 elementos das 3 páginas desenvolvidas;
 
-https://suellen-kitten.github.io/Proj-Final-GD/
+https://SuellenMiranda.github.io/Proj-Final-GD/
